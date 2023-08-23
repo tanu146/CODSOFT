@@ -9,6 +9,10 @@ In this repository, you'll discover a curated collection of the tasks I've succe
   
     -Task 1: Spam SMS Detection
             Objective: Develop a machine learning solution to differentiate spam and legitimate SMS, enhancing communication security and user experience.
-            Approach: Employ data preprocessing, feature engineering, and Logistic Regression for accurate SMS classification. Validate the model's performance through metrics like accuracy and ROC analysis.
+            Approach: Employed data preprocessing, feature engineering, and Logistic Regression for accurate SMS classification. Validated the model's performance through metrics like accuracy and ROC analysis.
+
+    -Task 2: Customer Churn Prediction
+            Objective: Create a predictive model to forecast customer churn based on a provided dataset, utilizing machine learning techniques and data analysis.
+            Approach: I meticulously preprocessed data with encoding and scaling, built a tuned Random Forest Classifier, and assessed performance with accuracy metrics and visualizations for a holistic customer churn prediction solution.
         
 </description>        
